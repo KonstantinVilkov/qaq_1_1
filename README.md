@@ -1,4 +1,7 @@
 # qaq_1_1
+
+[![Build status](https://ci.appveyor.com/api/projects/status/c8fhyoj98sml473m?svg=true)](https://ci.appveyor.com/project/KonstantinVilkov/qaq-1-1)
+
 ## Задача №1 - CashbackHacker
 Вы участвуете в проекте CashbackHacker - небольшой сервис, который сообщает пользователю о том, сколько ему нужно "докупить" в рамках конкретной траты, чтобы получить максимальное количетство кэшбека.
 
